@@ -7,7 +7,7 @@
 
 
 <!--[if !mso]>
-<style>
+
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
