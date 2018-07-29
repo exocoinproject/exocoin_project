@@ -6,22 +6,22 @@
 
 
 
-<!-- [if !mso]>
+<!--[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<![endif] --><!-- [if gte mso 9]><xml>
+<![endif]--><!--[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:RelyOnVML/>
   <o:AllowPNG/>
   <o:PixelsPerInch>96</o:PixelsPerInch>
  </o:OfficeDocumentSettings>
-</xml><![endif] -->
+</xml><![endif]-->
 
-<!-- [if gte mso 9]><xml>
+<!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -70,7 +70,7 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><![endif] --><!-- [if gte mso 9]><xml>
+</xml><![endif]--><!--[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="380">
@@ -657,7 +657,7 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><![endif] -->
+</xml><![endif]-->
 <style>
 <!--
  /* Font Definitions */
@@ -835,7 +835,7 @@ div.WordSection1
 	{page:WordSection1;}
 -->
 </style>
-<!-- [if gte mso 10]>
+<!--[if gte mso 10]>
 <style>
  /* Style Definitions */
 table.MsoNormalTable
@@ -857,68 +857,68 @@ table.MsoNormalTable
 	mso-hansi-theme-font:minor-latin;
 	mso-font-kerning:1.0pt;}
 </style>
-<![endif] -->
+<![endif]-->
 
 
 
 <!--StartFragment-->
 
-<p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:12.0pt;font-family:Consolas"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:12.0pt;font-family:Consolas">&nbsp;</span></p>
 
-<p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:12.0pt;font-family:Consolas"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:12.0pt;font-family:Consolas">&nbsp;</span></p>
 
-<p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:12.0pt;font-family:Consolas"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:12.0pt;font-family:Consolas">&nbsp;</span></p>
 
-<p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:12.0pt;font-family:Consolas"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:12.0pt;font-family:Consolas">&nbsp;</span></p>
 
-<p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:12.0pt;font-family:Consolas"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:12.0pt;font-family:Consolas">&nbsp;</span></p>
 
 <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:12.0pt;font-family:Consolas">EXOCoin
 Project Whitepaper<o:p></o:p></span></p>
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:
-12.0pt;font-family:Consolas"><o:p>&nbsp;</o:p></span></p>
+12.0pt;font-family:Consolas">&nbsp;</span></p>
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:
-12.0pt;font-family:Consolas"><o:p>&nbsp;</o:p></span></p>
+12.0pt;font-family:Consolas">&nbsp;</span></p>
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:
-12.0pt;font-family:Consolas"><o:p>&nbsp;</o:p></span></p>
+12.0pt;font-family:Consolas">&nbsp;</span></p>
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:
-12.0pt;font-family:Consolas"><o:p>&nbsp;</o:p></span></p>
+12.0pt;font-family:Consolas">&nbsp;</span></p>
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:
-12.0pt;font-family:Consolas"><o:p>&nbsp;</o:p></span></p>
+12.0pt;font-family:Consolas">&nbsp;</span></p>
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:
-12.0pt;font-family:Consolas"><o:p>&nbsp;</o:p></span></p>
+12.0pt;font-family:Consolas">&nbsp;</span></p>
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:
-12.0pt;font-family:Consolas"><o:p>&nbsp;</o:p></span></p>
+12.0pt;font-family:Consolas">&nbsp;</span></p>
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:
-12.0pt;font-family:Consolas"><o:p>&nbsp;</o:p></span></p>
+12.0pt;font-family:Consolas">&nbsp;</span></p>
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:
-12.0pt;font-family:Consolas"><o:p>&nbsp;</o:p></span></p>
+12.0pt;font-family:Consolas">&nbsp;</span></p>
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:
-12.0pt;font-family:Consolas"><o:p>&nbsp;</o:p></span></p>
+12.0pt;font-family:Consolas">&nbsp;</span></p>
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:
-12.0pt;font-family:Consolas"><o:p>&nbsp;</o:p></span></p>
+12.0pt;font-family:Consolas">&nbsp;</span></p>
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:
-12.0pt;font-family:Consolas"><o:p>&nbsp;</o:p></span></p>
+12.0pt;font-family:Consolas">&nbsp;</span></p>
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:
-12.0pt;font-family:Consolas"><o:p>&nbsp;</o:p></span></p>
+12.0pt;font-family:Consolas">&nbsp;</span></p>
 
 <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:12.0pt;font-family:Consolas">2018.06<o:p></o:p></span></p>
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:24.0pt;mso-bidi-font-size:
-12.0pt;font-family:Consolas"><o:p>&nbsp;</o:p></span></p>
+12.0pt;font-family:Consolas">&nbsp;</span></p>
 
 <h1 style="text-indent:0cm;mso-char-indent-count:0"><span lang="EN-US" style="font-family:SimHei">introduction<o:p></o:p></span></h1>
 
@@ -956,7 +956,7 @@ chose EXO as the important decision of this entertainment chain.<o:p></o:p></spa
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
 line-height:150%"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:
-&quot;STHeiti Light&quot;"><o:p>&nbsp;</o:p></span></p>
+&quot;STHeiti Light&quot;">&nbsp;</span></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
 line-height:150%"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:
@@ -966,7 +966,7 @@ recorded forever, which will be indelible through the century.<o:p></o:p></span>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
 line-height:150%"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:
-&quot;STHeiti Light&quot;"><o:p>&nbsp;</o:p></span></p>
+&quot;STHeiti Light&quot;">&nbsp;</span></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
 line-height:150%"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:
@@ -995,7 +995,7 @@ of free collection and subscription.<o:p></o:p></span></p>
 <h1 style="text-indent:0cm;mso-char-indent-count:0"><span lang="EN-US" style="font-family:SimHei">Six potential scenarios<o:p></o:p></span></h1>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
-line-height:150%"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">Buy
+line-height:150%"><b><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">Buy
 genuine consumer<o:p></o:p></span></b></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
@@ -1005,7 +1005,7 @@ to safeguard the IP rights of idols and to prevent idol and piracy damage to
 idols.<o:p></o:p></span></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
-line-height:150%"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">VIP
+line-height:150%"><b><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">VIP
 treatment<o:p></o:p></span></b></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
@@ -1015,7 +1015,7 @@ meeting, offline meeting, etc. Exclusive to other super VIP fans, use EXOCoin
 to organize participation in the circle.<o:p></o:p></span></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
-line-height:150%"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">Fan
+line-height:150%"><b><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">Fan
 activity system<o:p></o:p></span></b></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
@@ -1025,7 +1025,7 @@ and online hit list activities, etc., through the EXOCoin distribution tasks
 and reward contribution value, reflecting the contribution of different fans<o:p></o:p></span></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
-line-height:150%"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">Performance
+line-height:150%"><b><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">Performance
 program ticketing<o:p></o:p></span></b></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
@@ -1035,7 +1035,7 @@ safe sale and transfer, avoid ticketing cattle disrupt performance order and
 protect fans' rights<o:p></o:p></span></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
-line-height:150%"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">Idol
+line-height:150%"><b><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">Idol
 around the endorsement<o:p></o:p></span></b></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
@@ -1046,7 +1046,7 @@ provide fans with additional value-added service EXOCoin, to achieve the effect
 of powder<o:p></o:p></span></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
-line-height:150%"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">Idol Value
+line-height:150%"><b><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">Idol Value
 Operations<o:p></o:p></span></b></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
@@ -1058,7 +1058,7 @@ and achieve common value continuation<o:p></o:p></span></p>
 <h1 style="text-indent:0cm;mso-char-indent-count:0"><span lang="EN-US" style="font-family:SimHei">EXOCoin‘s six technical features<o:p></o:p></span></h1>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
-line-height:150%"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">EXO-L<span style="mso-spacerun:yes">&nbsp; </span>consensus<o:p></o:p></span></b></p>
+line-height:150%"><b><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">EXO-L&nbsp; consensus<o:p></o:p></span></b></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
 line-height:150%"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:
@@ -1069,7 +1069,7 @@ individual nodes offline does not affect the overall blockchain network Keep
 running and keep your fan identity permanent and correct on the blockchain.<o:p></o:p></span></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
-line-height:150%"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">The total
+line-height:150%"><b><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">The total
 number is constant<o:p></o:p></span></b></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
@@ -1080,7 +1080,7 @@ organization can increase the number of EXOCoin. A total of 210000000
 generated, never again made.<o:p></o:p></span></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
-line-height:150%"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">Encrypted
+line-height:150%"><b><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">Encrypted
 fidelity<o:p></o:p></span></b></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
@@ -1090,7 +1090,7 @@ blockchain, with the number of EXOCoin each fan owes to the unique
 tamper-evident blockchain technology. Nobody can fake EXOCoin.<o:p></o:p></span></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
-line-height:150%"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">Universal<o:p></o:p></span></b></p>
+line-height:150%"><b><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">Universal<o:p></o:p></span></b></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
 line-height:150%"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:
@@ -1099,7 +1099,7 @@ any blockchain node anywhere in the world using EXOCoin to interact online and
 offline with fans around the world.<o:p></o:p></span></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
-line-height:150%"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">Function
+line-height:150%"><b><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">Function
 expansion<o:p></o:p></span></b></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
@@ -1110,7 +1110,7 @@ distributed App. EXOCoin can easily add App function and upgrade seamlessly on
 Ethereum virtual machine.<o:p></o:p></span></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
-line-height:150%"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">Trading
+line-height:150%"><b><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;">Trading
 flexibility<o:p></o:p></span></b></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
@@ -1122,8 +1122,7 @@ capable of hosting EXOCoin transactions.<o:p></o:p></span></p>
 
 <h1 style="text-indent:0cm;mso-char-indent-count:0"><span lang="EN-US" style="font-family:SimHei">Token<o:p></o:p></span></h1>
 
-<p style="margin-top:0cm;margin-right:0cm;margin-bottom:12.0pt;margin-left:
-0cm;text-indent:24.0pt;mso-char-indent-count:2.0;line-height:150%"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;;
+<p style="margin-top: 0cm; margin-bottom: 12pt; text-indent: 24pt; line-height: 150%;"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;;
 color:#24292E">The first phase of the project Token issued by the star chain
 community is called EXOCoin (EXOC). The first phase of the project was carried
 out with the first EXO of the entertainment stars who were counted by the
@@ -1139,8 +1138,8 @@ from community members. We accept donations from ETH and ONT, two digital
 currencies. We are currently the only community fundraising address (not the
 internal contract address and angel investors) as follows:<o:p></o:p></span></p>
 
-<p style="line-height:150%"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;;
-color:#24292E"><span style="mso-spacerun:yes">&nbsp;</span>0x010da518ae2f92fd4136cd17ae2027a710161d7b, <o:p></o:p></span></b></p>
+<p style="line-height:150%"><b><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:&quot;STHeiti Light&quot;;
+color:#24292E">&nbsp;0x010da518ae2f92fd4136cd17ae2027a710161d7b, <o:p></o:p></span></b></p>
 
 <p style="line-height:150%"><span lang="EN-US" style="font-family:Consolas;
 mso-fareast-font-family:&quot;STHeiti Light&quot;;color:#24292E">donation will be used
@@ -1199,18 +1198,18 @@ of EXOCoin community, and become the tide of the new era.</span><span lang="EN-U
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
 line-height:150%"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:
-&quot;STHeiti Light&quot;"><o:p>&nbsp;</o:p></span></p>
+&quot;STHeiti Light&quot;">&nbsp;</span></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
 line-height:150%"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:
-&quot;STHeiti Light&quot;"><o:p>&nbsp;</o:p></span></p>
+&quot;STHeiti Light&quot;">&nbsp;</span></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
 line-height:150%"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:
-&quot;STHeiti Light&quot;"><o:p>&nbsp;</o:p></span></p>
+&quot;STHeiti Light&quot;">&nbsp;</span></p>
 
 <p class="MsoNormal" style="text-indent:24.0pt;mso-char-indent-count:2.0;
 line-height:150%"><span lang="EN-US" style="font-family:Consolas;mso-fareast-font-family:
-&quot;STHeiti Light&quot;"><o:p>&nbsp;</o:p></span></p>
+&quot;STHeiti Light&quot;">&nbsp;</span></p>
 
-<!--EndFragment--><br></div>
+<!--EndFragment--></div><div><includetail><!--<![endif]--></includetail></div>
